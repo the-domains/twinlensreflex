@@ -1,0 +1,28 @@
+name: twinlensreflex
+favicon: null
+layout_spectrum: 0.06449592183344066
+typography_spectrum: 0.40150824235752225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7100100237876177
+  lightness: 0.06462729233317077
+  saturation: 0.016995301004499197
+  rhythmicContrast: 0.3489690178539604
+purpose: []
